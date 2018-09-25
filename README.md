@@ -7,6 +7,7 @@ Grupa, seria: 314CA
 Tema2: Laser Tag
 
 Data inceperii temei: 22-04-2017
+
 Data finalizarii temei: 28-04-2017
 
 Probleme intampinate:
